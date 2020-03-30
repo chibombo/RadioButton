@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name = "RadioButton"
+  spec.name = "GARRadioButton"
   spec.version = "1.0"
   spec.summary = "RadioButton for iOS"
   spec.description = "An easy way to implement RadioButton"
