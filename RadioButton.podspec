@@ -19,4 +19,5 @@ Pod::Spec.new do |spec|
   spec.platform = :ios, "9.0"
   spec.source = { :git => "https://github.com/chibombo/RadioButton.git", :tag => spec.version }
   spec.source_files = "RadiosButton/**/*.swift"
+  spec.swift_versions = ['5.0', '5.1', '5.2']
 end
