@@ -1,5 +1,5 @@
 # RadioButton
-RadioButton for iOS
+An easy way to implement RadioButtons in Swift
 
 ## Features
 * Create RadioButtons in iOS
